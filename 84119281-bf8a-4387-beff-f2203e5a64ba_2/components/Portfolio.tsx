@@ -14,7 +14,7 @@ export default function Portfolio() {
     {
       title: 'Wedding Highlight Reel',
       category: 'Wedding',
-      image: 'https://readdy.ai/api/search-image?query=Beautiful%20wedding%20ceremony%20highlights%20with%20romantic%20cinematic%20lighting%2C%20bride%20and%20groom%20emotional%20moments%2C%20elegant%20venue%20decoration%2C%20soft%20warm%20tones%2C%20professional%20wedding%20videography%20style%2C%20dreamy%20atmosphere&width=600&height=400&seq=portfolio-2&orientation=landscape',
+      image: 'https://youtu.be/YVWSrngR0iY=Beautiful%20wedding%20ceremony%20highlights%20with%20romantic%20cinematic%20lighting%2C%20bride%20and%20groom%20emotional%20moments%2C%20elegant%20venue%20decoration%2C%20soft%20warm%20tones%2C%20professional%20wedding%20videography%20style%2C%20dreamy%20atmosphere&width=600&height=400&seq=portfolio-2&orientation=landscape',
       description: 'Emotional wedding highlight reel with color grading and synchronized music for perfect storytelling.'
     },
     {
